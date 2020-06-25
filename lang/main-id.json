@@ -29,7 +29,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Buat link pertemuan",
-        "confirmAddLink": "Tambahkan link Jitsi pada event ini?",
+        "confirmAddLink": "Tambahkan link Menicum pada event ini?",
         "error": {
             "appConfiguration": "Ada konfigurasi yang tidak tepat.",
             "generic": "Kesalahan terjadi. Cek pengaturan atau coba lakukan refresh.",
@@ -776,7 +776,7 @@
         "roomnameHint": "Enter the name or URL of the room you want to join. You may make a name up, just let the people you are meeting know it so that they enter the same name.",
         "sendFeedback": "Send feedback",
         "terms": "Terms",
-        "title": "Secure, fully featured, and completely free video conferencing"
+        "title": "Secure, fully featured, and completely Cloud conferencing solution"
     },
     "lonelyMeetingExperience": {
         "button": "Invite others",
